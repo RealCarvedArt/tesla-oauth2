@@ -11,7 +11,7 @@ Code:
 requests==2.24.0
 selenium==3.141.0
 
-STEPS:​
+## STEPS:​
 Download the prerequisites
 Create a project folder to store your files; e.g., “C:\Users\Username\Desktop\TeslaTokens”
 Place: ChromeDriver, auth.tokens.py, and requirements.txt in “C:\Users\Username\Desktop\TeslaTokens”
@@ -48,7 +48,7 @@ Non-MFA example:
 Code:
 python3 ./auth.tokens.py -u myTeslaEmail@someDomain.com -p someSuperSecurePassword
 
-TIPS:​
+## TIPS:​
 If python3 does not work try using just python
 To check your Python install you can type:
 Code:
