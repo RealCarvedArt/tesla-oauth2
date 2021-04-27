@@ -1,5 +1,6 @@
-# Tesla OAuth Token Generation
-A script on how to interact with the recent OAuth2 changes from Tesla and the new `/oauth2/` endpoint.
+# Generate V3 Refresh Token for API Authentication using Python
+## Tesla OAuth Token Generation
+A script to interact with the recent OAuth2 changes from Tesla and the new `/oauth2/` endpoint.
 
 ## PREREQUISITES:​
 - Python 3.x (https://www.python.org/downloads/)
