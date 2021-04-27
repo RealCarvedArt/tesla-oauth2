@@ -5,7 +5,7 @@ A script on how to interact with the recent OAuth2 changes from Tesla and the ne
 - Python 3.x (https://www.python.org/downloads/)
 - ChromeDriver (http://chromedriver.storage.googleapis.com/index.html) (select the version that matches your Chrome version)
 - auth.tokens.py (https://raw.githubusercontent.com/teslascope/tokens/master/auth.tokens.py)
-- requirements.txt (enode-engineering/tesla-oauth2) -OR- create a text file named “requirements.txt” and add the following two lines:
+- requirements.txt (https://github.com/enode-engineering/tesla-oauth2) -OR- create a text file named “requirements.txt” and add the following two lines:
 ```
 Code:
 
