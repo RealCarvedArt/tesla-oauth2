@@ -18,8 +18,8 @@ Place: ChromeDriver, auth.tokens.py, and requirements.txt in “C:\Users\Usernam
 Install Python FOR ALL USERS and add to PATH (If you need help installing Python there are plenty of great videos out there explaining the process for each system)
 Launch a command window/terminal (e.g., PowerShell, Command Prompt, Terminal, etc.)
 Type:
-        Code:
-        CD C:\Users\Username\Desktop\TeslaTokens
+    Code:
+    CD C:\Users\Username\Desktop\TeslaTokens
 Press: ENTER
 Type:
         Code:
