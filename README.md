@@ -7,9 +7,9 @@ ChromeDriver (http://chromedriver.storage.googleapis.com/index.html) (select the
 auth.tokens.py (https://raw.githubusercontent.com/teslascope/tokens/master/auth.tokens.py)
 requirements.txt (enode-engineering/tesla-oauth2) -OR- create a text file named “requirements.txt” and add the following two lines:
 
-Code:
-requests==2.24.0
-selenium==3.141.0
+    Code:
+    requests==2.24.0
+    selenium==3.141.0
 
 ## STEPS:​
 Download the prerequisites
