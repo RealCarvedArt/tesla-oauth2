@@ -40,13 +40,13 @@ If your Tesla account has MFA enabled:
 ```
 Code:
 
-python3 ./auth.tokens.py -u 'email' -p 'password' -c 'passcode'
+python3 ./TeslaTokenV3.py -u 'email' -p 'password' -c 'passcode'
 ```
 If your Tesla account does not have MFA enabled:
 ```
 Code:
 
-python3 ./auth.tokens.py -u 'email' -p 'password'
+python3 ./TeslaTokenV3.py -u 'email' -p 'password'
 ```
 -u = Tesla account email
 -p = Tesla account password
@@ -56,13 +56,13 @@ MFA example:
 ```
 Code:
 
-python3 ./auth.tokens.py -u myTeslaEmail@someDomain.com -p someSuperSecurePassword -c 123456
+python3 ./TeslaTokenV3.py -u myTeslaEmail@someDomain.com -p someSuperSecurePassword -c 123456
 ```
 Non-MFA example:
 ```
 Code:
 
-python3 ./auth.tokens.py -u myTeslaEmail@someDomain.com -p someSuperSecurePassword
+python3 ./TeslaTokenV3.py -u myTeslaEmail@someDomain.com -p someSuperSecurePassword
 ```
 ## TIPS:​
 If python3 does not work try using just python
