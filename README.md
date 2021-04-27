@@ -29,8 +29,8 @@ At this point everything should be installed, configured and ready to go
 Then enter one of the below strings at the command prompt and hit ENTER:
 
 If your Tesla account has MFA enabled:
-Code:
-python3 ./auth.tokens.py -u 'email' -p 'password' -c 'passcode'
+    Code:
+    python3 ./auth.tokens.py -u 'email' -p 'password' -c 'passcode'
 
 If your Tesla account does not have MFA enabled:
     Code:
