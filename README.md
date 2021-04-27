@@ -1,5 +1,5 @@
 # Tesla OAuth Token Generation
-A "proof-of-concept" script on how to interact with the recent OAuth2 changes from Tesla and the new `/oauth2/` endpoint. It was open sources so we could let other people in the community better understand the flow of how secrets were passed around in a token exchange.
+A script on how to interact with the recent OAuth2 changes from Tesla and the new `/oauth2/` endpoint. It was open sources so we could let other people in the community better understand the flow of how secrets were passed around in a token exchange.
 
 ## How to run
 - Make sure you have Python 3 installed
