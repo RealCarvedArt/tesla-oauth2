@@ -23,7 +23,7 @@ selenium==3.141.0
 ```
 Code:
 
-CD /d %USERPROFILE%\Desktop\TeslaTokens
+CD /d C:\Users\Username\Desktop\TeslaTokens
 ```
 - Press: ENTER
 - Type:
